@@ -22,6 +22,11 @@ Applikationen använder [JSONPlaceholder](https://jsonplaceholder.typicode.com) 
 
 ## Hur man kör projektet
 
+Applikationen är hostad på Vercel och kan öppnas direkt här:
+[ContactBook](https://contactbook-mocha.vercel.app/)
+
+Eller kör lokalt:
+
 ```bash
 npm install
 npm run dev
